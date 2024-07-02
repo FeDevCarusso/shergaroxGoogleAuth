@@ -1,6 +1,6 @@
 {
   "name": "shergarox-google-auth",
-  "version": "1.0.2b",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
