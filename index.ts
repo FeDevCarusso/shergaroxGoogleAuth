@@ -46,3 +46,5 @@ const generateAuthUrl = (clientId:string, redirectUri: string ) => {
     const authUrl = `https://accounts.google.com/o/oauth2/v2/auth?client_id=${clientId}&redirect_uri=${encodeURIComponent(redirectUri)}&response_type=code&scope=profile%20email&access_type=offline`;
     return authUrl;
 }
+
+export default ShergaroxGoogleAuth
