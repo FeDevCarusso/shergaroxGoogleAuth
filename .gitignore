@@ -1,0 +1,42 @@
+# Dependencias
+/node_modules
+
+# Archivos de construcción
+/dist
+
+# Archivos de configuración
+.env
+.env.local
+.env.*.local
+
+# Logs y archivos temporales
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.log
+*.log.*
+
+# Carpeta de pruebas
+/coverage
+
+# Directorio de archivos de compilación
+/build
+
+# Archivos de configuración personalizados
+.DS_Store
+Thumbs.db
+
+# Otros archivos y carpetas generados
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+*.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
